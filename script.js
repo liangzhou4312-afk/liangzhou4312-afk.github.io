@@ -15,7 +15,7 @@ const translations = {
     uniSummary: 'A single language-model call builds a task graph to unify navigation and target following. Reusable value maps and global–local memory guide exploration and task switching.', tagGraph: 'Task graphs', tagZero: 'Zero-shot generalization',
     demosLabel: 'IN MOTION', demosHeading: 'Robots in action', demosAside: 'From frameworks to experiments.\nWatch the full demonstrations.',
     badgeDeployment: 'REAL-WORLD DEMO', badgeLab: 'LAB DEMO', badgeSim: 'SIMULATION',
-    videoUni: 'UniGuide · Navigation tasks', videoUniText: 'Object navigation, multi-object navigation, and tracking.',
+    videoUni: 'UniGuide · Navigation task', videoUniText: 'Object navigation, multi-object navigation, and tracking.',
     videoMobile: 'Mobile robot · Shared spaces', videoMobileText: 'A mobile robot operating near a walking person.',
     videoHumanoid: 'Humanoid · Laboratory demonstration', videoHumanoidText: 'Footage of a physical humanoid robot platform.',
     videoQuad: 'Quadruped · Across terrains', videoQuadText: 'Simulation experiments on flat ground, stairs, and slopes.',
